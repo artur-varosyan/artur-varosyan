@@ -1,7 +1,7 @@
 ## Hi, nice to meet you! 👋
 
 ### About Me
-I am a third-year computer science student at the University of Bristol 🇬🇧🎓, currently undertaking an academic exchange at the Singapore University of Technology and Design 🇸🇬. Please get in touch with me for collaboration on any projects!
+I am a third-year computer science student at the University of Bristol 🇬🇧🎓, having undertakien an academic exchange at the Singapore University of Technology and Design 🇸🇬. Currently I am a Software Development Engineer Intern at Amazon. Please get in touch with me for collaboration on any projects!
 
 ### Projects
 Here are some of the projects I have been working on:
